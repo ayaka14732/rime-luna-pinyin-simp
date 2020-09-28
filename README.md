@@ -4,6 +4,8 @@
 
 rime 朙月拼音输入方案，原生简化字版本
 
+**DISCONTINUED**: See [ayaka14732/rime-putonghua](https://github.com/ayaka14732/rime-putonghua).
+
 ## 特性
 
 本方案的词库使用简化字，可以避免运行时一繁对多简造成的转换错误：
